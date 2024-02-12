@@ -1,0 +1,94 @@
+* {
+  padding: 0;
+}
+
+.logo {
+  position: absolute;
+  top: 10%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  padding-left: 30%;
+  padding-bottom: 20px;
+}
+img {
+  width: 130px;
+}
+.signup {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  border: 1px solid grey;
+  border-radius: 5%;
+  padding: 10px;
+}
+input {
+  width: 315px;
+  height: 30px;
+}
+.btn {
+  width: 328px;
+  height: 30px;
+  background: #f7ca00;
+  border-color: #f2c200;
+  border-radius: 5px;
+}
+.info {
+  margin-top: 20px;
+}
+a {
+  color: #0066c0;
+  text-decoration: none;
+}
+.help {
+  margin-top: 20px;
+}
+.mid-sec {
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  margin-top: 10px;
+  display: flex;
+
+  align-items: center;
+}
+.mid-sec hr {
+  width: 100px;
+  height: 0;
+}
+.btn2 {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  width: 350px;
+  height: 40px;
+  background: white;
+  border-color: rgb(225, 223, 223);
+  border-radius: 5px;
+}
+
+.footer {
+  padding: 0;
+  margin: 650px 0 0 0;
+  height: 180px;
+  width: 100%;
+
+  background-color: rgb(240, 235, 235);
+}
+.first {
+  padding-left: 580px;
+  /* margin: 20px; */
+}
+.first a {
+  margin: 30px;
+}
+.last {
+  margin-top: 20px;
+  padding-left: 620px;
+}
